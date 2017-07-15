@@ -477,7 +477,7 @@
 	hot-bat-decidegc = <530>;
 	/* other settings */
 	qcom,cutoff-voltage-with-charger = <3250>;
-	disable-pd;
+	/*disable-pd;*/
 };
 
 &pmi8998_fg {
